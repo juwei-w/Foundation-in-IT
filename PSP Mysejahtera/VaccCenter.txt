@@ -1,0 +1,4 @@
+MMU Cyberjaya, 0.1
+Kuala Lumpur Convention Centre (KLCC), 0.3
+IOI City Mall Putrajaya, 0.2
+KLCC, 10
